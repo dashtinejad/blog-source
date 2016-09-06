@@ -1,0 +1,82 @@
+body {
+    font-family: IRANSans, 'Segoe UI';
+    font-weight: normal;
+}
+
+.main-nav-link {
+    font-weight: inherit;
+}
+
+#search-form-wrap {
+    display: none;
+}
+
+.nav-icon, .main-nav-link,
+.header-inner #logo, #main-nav {
+    float: right;
+}
+
+
+
+#sub-nav, #search-form-wrap {
+    float: left;
+}
+
+#profile.card {
+    left: 20px;
+    right: auto;
+}
+
+#profile.card .profile-inner:before, #profile.card .profile-inner:after {
+    left: 10px;
+    right: auto;
+}
+
+.article-meta > div {
+    float: none;
+    margin: 0;
+}
+
+#comments {
+    display: none;
+}
+
+.search-form {
+    display: none;
+}
+
+#recent-post li .item-thumbnail {
+    float: right;
+    margin-left: auto;
+    margin-right: -94px;
+}
+
+#recent-post li {
+    padding: 10px 94px 10px 0;
+}
+
+.widget ul:not(#recent-post) li a:before, .widget ol:not(#recent-post) li a:before {
+    margin-right: auto;
+    margin-left: 6px;
+}
+
+#profile .inner .article-info .article-info-block:first-child {
+    border-width: 0;
+    width: 100%;
+    float: none;
+}
+
+.article-share-link .fa-share {
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+.category-list-count, .tag-list-count, .archive-list-count {
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+#profile .inner .base-info #location .fa {
+    margin-right: 0;
+    margin-left: 5px;
+}

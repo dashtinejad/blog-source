@@ -1,0 +1,38 @@
+index:
+    home: 'خانه'
+    search: 'جستجو'
+    archive: 'آرشیو'
+    category: 'موضوع'
+    uncategorized: 'بدون موضوع'
+    tag: 'برچسب'
+nav:
+    next: 'بعدی'
+    prev: 'قبلی'
+    older: 'قدیمی‌تر'
+    newer: 'جدیدتر'
+widget:
+    recents: 'آخرین مطالب'
+    archives: 'آرشیو'
+    categories: 'categories'
+    links: 'لینک'
+    tags: 'tags'
+    tag_cloud: 'tag cloud'
+article:
+    more: 'Read More'
+    comments: 'Comments'
+    share: 'اشتراک گذاری'
+    catalogue: 'Catalogue'
+profile:
+    follow: 'گیت‌هاب'
+    post: 'مطلب'
+    tag: 'برچسب'
+    posts: 'مطالب'
+    tags: 'برچسب‌ها'
+insight:
+    hint: 'Type something...'
+    posts: 'Posts'
+    pages: 'Pages'
+    categories: 'Categories'
+    tags: 'Tags'
+    untitled: '(Untitled)'
+
