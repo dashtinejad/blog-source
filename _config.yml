@@ -80,3 +80,5 @@ deploy:
   type: git
   repo: https://github.com/dashtinejad/blog
   branch: gh-pages
+  name: Mojtaba dashtinejad
+  email: mojtaba@gmail.com
