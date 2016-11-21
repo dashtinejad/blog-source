@@ -2,7 +2,7 @@
 menu:
   خانه: .
   آرشیو: archives
-  رزومه: https://dashtinejad.github.io/resume/
+  # رزومه: https://dashtinejad.github.io/resume/
 
 # Customize
 customize:
